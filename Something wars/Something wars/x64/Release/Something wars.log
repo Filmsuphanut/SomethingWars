@@ -1,0 +1,622 @@
+﻿  algorithmbot.cpp
+D:\Something wars Visual\Something wars\Something wars\algorithmbot.cpp(14,25): warning C4244:  '=': conversion from 'double' to 'float', possible loss of data
+D:\Something wars Visual\Something wars\Something wars\algorithmbot.cpp(15,18): warning C4244:  '=': conversion from 'int' to 'float', possible loss of data
+D:\Something wars Visual\Something wars\Something wars\algorithmbot.cpp(32,11): warning C4244:  '=': conversion from 'double' to 'float', possible loss of data
+D:\Something wars Visual\Something wars\Something wars\algorithmbot.cpp(33,11): warning C4244:  '=': conversion from 'double' to 'float', possible loss of data
+D:\Something wars Visual\Something wars\Something wars\algorithmbot.cpp(34,17): warning C4244:  '=': conversion from 'double' to 'float', possible loss of data
+D:\Something wars Visual\Something wars\Something wars\algorithmbot.cpp(35,22): warning C4244:  '=': conversion from 'double' to 'float', possible loss of data
+  base.cpp
+D:\Something wars Visual\Something wars\Something wars\algorithmbot.cpp(60,22): warning C4244:  '=': conversion from 'double' to 'float', possible loss of data
+D:\Something wars Visual\Something wars\Something wars\base.cpp(17,78): warning C4244:  'argument': conversion from 'T' to 'T', possible loss of data
+D:\Something wars Visual\Something wars\Something wars\base.cpp(17,78): warning C4244:         with
+D:\Something wars Visual\Something wars\Something wars\base.cpp(17,78): warning C4244:         [
+D:\Something wars Visual\Something wars\Something wars\base.cpp(17,78): warning C4244:             T=float
+D:\Something wars Visual\Something wars\Something wars\base.cpp(17,78): warning C4244:         ]
+D:\Something wars Visual\Something wars\Something wars\base.cpp(17,78): warning C4244:         and
+D:\Something wars Visual\Something wars\Something wars\base.cpp(17,78): warning C4244:         [
+D:\Something wars Visual\Something wars\Something wars\base.cpp(17,78): warning C4244:             T=int
+D:\Something wars Visual\Something wars\Something wars\base.cpp(17,78): warning C4244:         ]
+D:\Something wars Visual\Something wars\Something wars\base.cpp(17,51): warning C4244:  'argument': conversion from 'T' to 'T', possible loss of data
+D:\Something wars Visual\Something wars\Something wars\base.cpp(17,51): warning C4244:         with
+D:\Something wars Visual\Something wars\Something wars\base.cpp(17,51): warning C4244:         [
+D:\Something wars Visual\Something wars\Something wars\base.cpp(17,51): warning C4244:             T=float
+D:\Something wars Visual\Something wars\Something wars\base.cpp(17,51): warning C4244:         ]
+D:\Something wars Visual\Something wars\Something wars\base.cpp(17,51): warning C4244:         and
+D:\Something wars Visual\Something wars\Something wars\base.cpp(17,51): warning C4244:         [
+D:\Something wars Visual\Something wars\Something wars\base.cpp(17,51): warning C4244:             T=int
+D:\Something wars Visual\Something wars\Something wars\base.cpp(17,51): warning C4244:         ]
+D:\Something wars Visual\Something wars\Something wars\base.cpp(16,49): warning C4244:  'argument': conversion from 'T' to 'T', possible loss of data
+D:\Something wars Visual\Something wars\Something wars\base.cpp(16,49): warning C4244:         with
+D:\Something wars Visual\Something wars\Something wars\base.cpp(16,49): warning C4244:         [
+D:\Something wars Visual\Something wars\Something wars\base.cpp(16,49): warning C4244:             T=float
+D:\Something wars Visual\Something wars\Something wars\base.cpp(16,49): warning C4244:         ]
+D:\Something wars Visual\Something wars\Something wars\base.cpp(16,49): warning C4244:         and
+D:\Something wars Visual\Something wars\Something wars\base.cpp(16,49): warning C4244:         [
+D:\Something wars Visual\Something wars\Something wars\base.cpp(16,49): warning C4244:             T=int
+D:\Something wars Visual\Something wars\Something wars\base.cpp(16,49): warning C4244:         ]
+  bgmusic.cpp
+D:\Something wars Visual\Something wars\Something wars\base.cpp(63,32): warning C4244:  'argument': conversion from 'double' to 'T', possible loss of data
+D:\Something wars Visual\Something wars\Something wars\base.cpp(63,32): warning C4244:         with
+D:\Something wars Visual\Something wars\Something wars\base.cpp(63,32): warning C4244:         [
+D:\Something wars Visual\Something wars\Something wars\base.cpp(63,32): warning C4244:             T=float
+D:\Something wars Visual\Something wars\Something wars\base.cpp(63,32): warning C4244:         ]
+  Botname.cpp
+  charactername.cpp
+  creep.cpp
+D:\Something wars Visual\Something wars\Something wars\bgmusic.cpp(34,22): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+D:\Something wars Visual\Something wars\Something wars\creep.cpp(16,18): warning C4244:  '=': conversion from 'double' to 'float', possible loss of data
+D:\Something wars Visual\Something wars\Something wars\creep.cpp(47,100): warning C4244:  'argument': conversion from 'T' to 'T', possible loss of data
+D:\Something wars Visual\Something wars\Something wars\creep.cpp(47,100): warning C4244:         with
+D:\Something wars Visual\Something wars\Something wars\creep.cpp(47,100): warning C4244:         [
+D:\Something wars Visual\Something wars\Something wars\creep.cpp(47,100): warning C4244:             T=float
+D:\Something wars Visual\Something wars\Something wars\creep.cpp(47,100): warning C4244:         ]
+D:\Something wars Visual\Something wars\Something wars\creep.cpp(47,100): warning C4244:         and
+D:\Something wars Visual\Something wars\Something wars\creep.cpp(47,100): warning C4244:         [
+D:\Something wars Visual\Something wars\Something wars\creep.cpp(47,100): warning C4244:             T=int
+D:\Something wars Visual\Something wars\Something wars\creep.cpp(47,100): warning C4244:         ]
+D:\Something wars Visual\Something wars\Something wars\creep.cpp(47,62): warning C4244:  'argument': conversion from 'T' to 'T', possible loss of data
+D:\Something wars Visual\Something wars\Something wars\creep.cpp(47,62): warning C4244:         with
+D:\Something wars Visual\Something wars\Something wars\creep.cpp(47,62): warning C4244:         [
+D:\Something wars Visual\Something wars\Something wars\creep.cpp(47,62): warning C4244:             T=float
+D:\Something wars Visual\Something wars\Something wars\creep.cpp(47,62): warning C4244:         ]
+D:\Something wars Visual\Something wars\Something wars\creep.cpp(47,62): warning C4244:         and
+D:\Something wars Visual\Something wars\Something wars\creep.cpp(47,62): warning C4244:         [
+D:\Something wars Visual\Something wars\Something wars\creep.cpp(47,62): warning C4244:             T=int
+D:\Something wars Visual\Something wars\Something wars\creep.cpp(47,62): warning C4244:         ]
+D:\Something wars Visual\Something wars\Something wars\creep.cpp(46,100): warning C4244:  'argument': conversion from 'T' to 'T', possible loss of data
+D:\Something wars Visual\Something wars\Something wars\creep.cpp(46,100): warning C4244:         with
+D:\Something wars Visual\Something wars\Something wars\creep.cpp(46,100): warning C4244:         [
+D:\Something wars Visual\Something wars\Something wars\creep.cpp(46,100): warning C4244:             T=float
+D:\Something wars Visual\Something wars\Something wars\creep.cpp(46,100): warning C4244:         ]
+D:\Something wars Visual\Something wars\Something wars\creep.cpp(46,100): warning C4244:         and
+D:\Something wars Visual\Something wars\Something wars\creep.cpp(46,100): warning C4244:         [
+D:\Something wars Visual\Something wars\Something wars\creep.cpp(46,100): warning C4244:             T=int
+D:\Something wars Visual\Something wars\Something wars\creep.cpp(46,100): warning C4244:         ]
+D:\Something wars Visual\Something wars\Something wars\creep.cpp(46,62): warning C4244:  'argument': conversion from 'T' to 'T', possible loss of data
+D:\Something wars Visual\Something wars\Something wars\creep.cpp(46,62): warning C4244:         with
+D:\Something wars Visual\Something wars\Something wars\creep.cpp(46,62): warning C4244:         [
+D:\Something wars Visual\Something wars\Something wars\creep.cpp(46,62): warning C4244:             T=float
+D:\Something wars Visual\Something wars\Something wars\creep.cpp(46,62): warning C4244:         ]
+D:\Something wars Visual\Something wars\Something wars\creep.cpp(46,62): warning C4244:         and
+D:\Something wars Visual\Something wars\Something wars\creep.cpp(46,62): warning C4244:         [
+D:\Something wars Visual\Something wars\Something wars\creep.cpp(46,62): warning C4244:             T=int
+D:\Something wars Visual\Something wars\Something wars\creep.cpp(46,62): warning C4244:         ]
+D:\Something wars Visual\Something wars\Something wars\creep.cpp(74,40): warning C4244:  '+=': conversion from 'double' to 'float', possible loss of data
+D:\Something wars Visual\Something wars\Something wars\creep.cpp(87,38): warning C4244:  '+=': conversion from 'double' to 'float', possible loss of data
+D:\Something wars Visual\Something wars\Something wars\creep.cpp(92,96): warning C4244:  'argument': conversion from 'double' to 'float', possible loss of data
+D:\Something wars Visual\Something wars\Something wars\creep.cpp(92,55): warning C4244:  'argument': conversion from 'double' to 'float', possible loss of data
+D:\Something wars Visual\Something wars\Something wars\creep.cpp(94,53): warning C4244:  'argument': conversion from 'double' to 'float', possible loss of data
+D:\Something wars Visual\Something wars\Something wars\creep.cpp(98,77): warning C4244:  'argument': conversion from 'double' to 'float', possible loss of data
+D:\Something wars Visual\Something wars\Something wars\creep.cpp(123,15): warning C4244:  'initializing': conversion from 'T' to 'int', possible loss of data
+D:\Something wars Visual\Something wars\Something wars\creep.cpp(123,15): warning C4244:         with
+D:\Something wars Visual\Something wars\Something wars\creep.cpp(123,15): warning C4244:         [
+D:\Something wars Visual\Something wars\Something wars\creep.cpp(123,15): warning C4244:             T=float
+D:\Something wars Visual\Something wars\Something wars\creep.cpp(123,15): warning C4244:         ]
+D:\Something wars Visual\Something wars\Something wars\creep.cpp(124,15): warning C4244:  'initializing': conversion from 'T' to 'int', possible loss of data
+D:\Something wars Visual\Something wars\Something wars\creep.cpp(124,15): warning C4244:         with
+D:\Something wars Visual\Something wars\Something wars\creep.cpp(124,15): warning C4244:         [
+D:\Something wars Visual\Something wars\Something wars\creep.cpp(124,15): warning C4244:             T=float
+D:\Something wars Visual\Something wars\Something wars\creep.cpp(124,15): warning C4244:         ]
+D:\Something wars Visual\Something wars\Something wars\creep.cpp(141,60): warning C4244:  'argument': conversion from 'int' to 'T', possible loss of data
+D:\Something wars Visual\Something wars\Something wars\creep.cpp(141,60): warning C4244:         with
+D:\Something wars Visual\Something wars\Something wars\creep.cpp(141,60): warning C4244:         [
+D:\Something wars Visual\Something wars\Something wars\creep.cpp(141,60): warning C4244:             T=float
+D:\Something wars Visual\Something wars\Something wars\creep.cpp(141,60): warning C4244:         ]
+D:\Something wars Visual\Something wars\Something wars\creep.cpp(154,83): warning C4244:  'argument': conversion from 'int' to 'T', possible loss of data
+D:\Something wars Visual\Something wars\Something wars\creep.cpp(154,83): warning C4244:         with
+D:\Something wars Visual\Something wars\Something wars\creep.cpp(154,83): warning C4244:         [
+D:\Something wars Visual\Something wars\Something wars\creep.cpp(154,83): warning C4244:             T=float
+D:\Something wars Visual\Something wars\Something wars\creep.cpp(154,83): warning C4244:         ]
+D:\Something wars Visual\Something wars\Something wars\creep.cpp(269,23): warning C4244:  '=': conversion from 'double' to 'float', possible loss of data
+D:\Something wars Visual\Something wars\Something wars\creep.cpp(282,23): warning C4244:  '=': conversion from 'double' to 'float', possible loss of data
+D:\Something wars Visual\Something wars\Something wars\creep.cpp(294,23): warning C4244:  '=': conversion from 'double' to 'float', possible loss of data
+D:\Something wars Visual\Something wars\Something wars\creep.cpp(325,23): warning C4244:  '=': conversion from 'double' to 'float', possible loss of data
+  gamemap.cpp
+D:\Something wars Visual\Something wars\Something wars\creep.cpp(336,23): warning C4244:  '=': conversion from 'double' to 'float', possible loss of data
+D:\Something wars Visual\Something wars\Something wars\gamemap.cpp(207,30): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+D:\Something wars Visual\Something wars\Something wars\gamemap.cpp(209,27): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+D:\Something wars Visual\Something wars\Something wars\gamemap.cpp(280,29): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+  interface.cpp
+D:\Something wars Visual\Something wars\Something wars\gamemap.cpp(280,24): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+D:\Something wars Visual\Something wars\Something wars\interface.cpp(171,33): warning C4305:  'argument': truncation from 'double' to 'float'
+D:\Something wars Visual\Something wars\Something wars\interface.cpp(176,33): warning C4305:  'argument': truncation from 'double' to 'float'
+  main.cpp
+D:\Something wars Visual\Something wars\Something wars\interface.cpp(181,33): warning C4305:  'argument': truncation from 'double' to 'float'
+D:\Something wars Visual\Something wars\Something wars\main.cpp(21,1): warning C4005:  '_CRT_SECURE_NO_WARNINGS': macro redefinition
+D:\Something wars Visual\Something wars\Something wars\main.cpp(21,1): warning C4005: D:\Something wars Visual\Something wars\Something wars\main.cpp: note: see previous definition of '_CRT_SECURE_NO_WARNINGS'
+D:\Something wars Visual\Something wars\Something wars\main.cpp(109,34): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+D:\Something wars Visual\Something wars\Something wars\main.cpp(109,22): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+D:\Something wars Visual\Something wars\Something wars\main.cpp(229,15): warning C4244:  'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\Something wars Visual\Something wars\Something wars\main.cpp(320,54): warning C4244:  'argument': conversion from 'double' to 'sf::Uint8', possible loss of data
+D:\Something wars Visual\Something wars\Something wars\main.cpp(325,54): warning C4244:  'argument': conversion from 'double' to 'sf::Uint8', possible loss of data
+D:\Something wars Visual\Something wars\Something wars\main.cpp(330,55): warning C4244:  'argument': conversion from 'double' to 'sf::Uint8', possible loss of data
+D:\Something wars Visual\Something wars\Something wars\main.cpp(335,55): warning C4244:  'argument': conversion from 'double' to 'sf::Uint8', possible loss of data
+D:\Something wars Visual\Something wars\Something wars\main.cpp(340,53): warning C4244:  'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+D:\Something wars Visual\Something wars\Something wars\main.cpp(424,73): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+D:\Something wars Visual\Something wars\Something wars\main.cpp(424,56): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+D:\Something wars Visual\Something wars\Something wars\main.cpp(431,66): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+D:\Something wars Visual\Something wars\Something wars\main.cpp(431,44): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+D:\Something wars Visual\Something wars\Something wars\main.cpp(449,54): warning C4244:  'argument': conversion from 'double' to 'sf::Uint8', possible loss of data
+D:\Something wars Visual\Something wars\Something wars\main.cpp(456,54): warning C4244:  'argument': conversion from 'double' to 'sf::Uint8', possible loss of data
+D:\Something wars Visual\Something wars\Something wars\main.cpp(463,55): warning C4244:  'argument': conversion from 'double' to 'sf::Uint8', possible loss of data
+D:\Something wars Visual\Something wars\Something wars\main.cpp(470,55): warning C4244:  'argument': conversion from 'double' to 'sf::Uint8', possible loss of data
+D:\Something wars Visual\Something wars\Something wars\main.cpp(477,53): warning C4244:  'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+D:\Something wars Visual\Something wars\Something wars\main.cpp(638,31): warning C4267:  '=': conversion from 'size_t' to 'int', possible loss of data
+D:\Something wars Visual\Something wars\Something wars\main.cpp(668,31): warning C4267:  '=': conversion from 'size_t' to 'int', possible loss of data
+D:\Something wars Visual\Something wars\Something wars\main.cpp(676,36): warning C4267:  '=': conversion from 'size_t' to 'int', possible loss of data
+D:\Something wars Visual\Something wars\Something wars\main.cpp(806,35): warning C4244:  '=': conversion from 'double' to 'float', possible loss of data
+D:\Something wars Visual\Something wars\Something wars\main.cpp(809,31): warning C4244:  '=': conversion from 'double' to 'float', possible loss of data
+D:\Something wars Visual\Something wars\Something wars\main.cpp(819,81): warning C4244:  'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+D:\Something wars Visual\Something wars\Something wars\main.cpp(849,80): warning C4244:  'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+D:\Something wars Visual\Something wars\Something wars\main.cpp(960,60): warning C4244:  '=': conversion from 'double' to 'float', possible loss of data
+D:\Something wars Visual\Something wars\Something wars\main.cpp(1023,60): warning C4244:  '=': conversion from 'double' to 'float', possible loss of data
+D:\Something wars Visual\Something wars\Something wars\main.cpp(1030,94): warning C4244:  'argument': conversion from 'double' to 'int', possible loss of data
+D:\Something wars Visual\Something wars\Something wars\main.cpp(1038,94): warning C4244:  'argument': conversion from 'double' to 'int', possible loss of data
+D:\Something wars Visual\Something wars\Something wars\main.cpp(1049,60): warning C4244:  '=': conversion from 'double' to 'float', possible loss of data
+D:\Something wars Visual\Something wars\Something wars\main.cpp(1051,56): warning C4244:  'argument': conversion from 'double' to 'float', possible loss of data
+D:\Something wars Visual\Something wars\Something wars\main.cpp(1079,60): warning C4244:  '=': conversion from 'double' to 'float', possible loss of data
+D:\Something wars Visual\Something wars\Something wars\main.cpp(1085,94): warning C4244:  'argument': conversion from 'double' to 'int', possible loss of data
+D:\Something wars Visual\Something wars\Something wars\main.cpp(1093,94): warning C4244:  'argument': conversion from 'double' to 'int', possible loss of data
+D:\Something wars Visual\Something wars\Something wars\main.cpp(1135,60): warning C4244:  '=': conversion from 'double' to 'float', possible loss of data
+D:\Something wars Visual\Something wars\Something wars\main.cpp(1138,56): warning C4244:  'argument': conversion from 'double' to 'float', possible loss of data
+D:\Something wars Visual\Something wars\Something wars\main.cpp(1139,56): warning C4244:  '=': conversion from 'int' to 'float', possible loss of data
+D:\Something wars Visual\Something wars\Something wars\main.cpp(1140,56): warning C4244:  'argument': conversion from 'double' to 'float', possible loss of data
+D:\Something wars Visual\Something wars\Something wars\main.cpp(1146,94): warning C4244:  'argument': conversion from 'double' to 'int', possible loss of data
+D:\Something wars Visual\Something wars\Something wars\main.cpp(1154,94): warning C4244:  'argument': conversion from 'double' to 'int', possible loss of data
+D:\Something wars Visual\Something wars\Something wars\main.cpp(1167,46): warning C4244:  '=': conversion from 'double' to 'float', possible loss of data
+D:\Something wars Visual\Something wars\Something wars\main.cpp(1176,94): warning C4244:  'argument': conversion from 'double' to 'int', possible loss of data
+D:\Something wars Visual\Something wars\Something wars\main.cpp(1184,94): warning C4244:  'argument': conversion from 'double' to 'int', possible loss of data
+D:\Something wars Visual\Something wars\Something wars\main.cpp(1196,60): warning C4244:  '=': conversion from 'double' to 'float', possible loss of data
+D:\Something wars Visual\Something wars\Something wars\main.cpp(1198,56): warning C4244:  'argument': conversion from 'double' to 'float', possible loss of data
+D:\Something wars Visual\Something wars\Something wars\main.cpp(1199,57): warning C4244:  '=': conversion from 'int' to 'float', possible loss of data
+D:\Something wars Visual\Something wars\Something wars\main.cpp(1205,94): warning C4244:  'argument': conversion from 'double' to 'int', possible loss of data
+D:\Something wars Visual\Something wars\Something wars\main.cpp(1213,94): warning C4244:  'argument': conversion from 'double' to 'int', possible loss of data
+D:\Something wars Visual\Something wars\Something wars\main.cpp(1268,1): warning C4805:  '!=': unsafe mix of type 'int' and type 'bool' in operation
+D:\Something wars Visual\Something wars\Something wars\main.cpp(1311,58): warning C4244:  '=': conversion from 'double' to 'float', possible loss of data
+D:\Something wars Visual\Something wars\Something wars\main.cpp(1329,81): warning C4805:  '!=': unsafe mix of type 'int' and type 'bool' in operation
+D:\Something wars Visual\Something wars\Something wars\main.cpp(1332,54): warning C4244:  '+=': conversion from 'double' to 'float', possible loss of data
+D:\Something wars Visual\Something wars\Something wars\main.cpp(1356,1): warning C4805:  '!=': unsafe mix of type 'int' and type 'bool' in operation
+D:\Something wars Visual\Something wars\Something wars\main.cpp(1359,58): warning C4244:  '=': conversion from 'double' to 'float', possible loss of data
+D:\Something wars Visual\Something wars\Something wars\main.cpp(1366,94): warning C4244:  'argument': conversion from 'double' to 'int', possible loss of data
+D:\Something wars Visual\Something wars\Something wars\main.cpp(1376,58): warning C4244:  '=': conversion from 'double' to 'float', possible loss of data
+D:\Something wars Visual\Something wars\Something wars\main.cpp(1377,55): warning C4244:  'argument': conversion from 'double' to 'float', possible loss of data
+D:\Something wars Visual\Something wars\Something wars\main.cpp(1394,58): warning C4244:  '=': conversion from 'double' to 'float', possible loss of data
+D:\Something wars Visual\Something wars\Something wars\main.cpp(1399,94): warning C4244:  'argument': conversion from 'double' to 'int', possible loss of data
+D:\Something wars Visual\Something wars\Something wars\main.cpp(1409,81): warning C4805:  '!=': unsafe mix of type 'int' and type 'bool' in operation
+D:\Something wars Visual\Something wars\Something wars\main.cpp(1412,54): warning C4244:  '+=': conversion from 'double' to 'float', possible loss of data
+D:\Something wars Visual\Something wars\Something wars\main.cpp(1436,96): warning C4805:  '!=': unsafe mix of type 'int' and type 'bool' in operation
+D:\Something wars Visual\Something wars\Something wars\main.cpp(1437,58): warning C4244:  '=': conversion from 'double' to 'float', possible loss of data
+D:\Something wars Visual\Something wars\Something wars\main.cpp(1438,55): warning C4244:  'argument': conversion from 'double' to 'float', possible loss of data
+D:\Something wars Visual\Something wars\Something wars\main.cpp(1439,55): warning C4244:  '=': conversion from 'int' to 'float', possible loss of data
+D:\Something wars Visual\Something wars\Something wars\main.cpp(1440,55): warning C4244:  'argument': conversion from 'double' to 'float', possible loss of data
+D:\Something wars Visual\Something wars\Something wars\main.cpp(1444,94): warning C4244:  'argument': conversion from 'double' to 'int', possible loss of data
+D:\Something wars Visual\Something wars\Something wars\main.cpp(1454,71): warning C4805:  '!=': unsafe mix of type 'int' and type 'bool' in operation
+D:\Something wars Visual\Something wars\Something wars\main.cpp(1454,111): warning C4244:  '=': conversion from 'double' to 'float', possible loss of data
+D:\Something wars Visual\Something wars\Something wars\main.cpp(1457,134): warning C4805:  '!=': unsafe mix of type 'int' and type 'bool' in operation
+D:\Something wars Visual\Something wars\Something wars\main.cpp(1459,94): warning C4244:  'argument': conversion from 'double' to 'int', possible loss of data
+D:\Something wars Visual\Something wars\Something wars\main.cpp(1468,96): warning C4805:  '!=': unsafe mix of type 'int' and type 'bool' in operation
+D:\Something wars Visual\Something wars\Something wars\main.cpp(1469,58): warning C4244:  '=': conversion from 'double' to 'float', possible loss of data
+D:\Something wars Visual\Something wars\Something wars\main.cpp(1470,55): warning C4244:  'argument': conversion from 'double' to 'float', possible loss of data
+D:\Something wars Visual\Something wars\Something wars\main.cpp(1471,56): warning C4244:  '=': conversion from 'int' to 'float', possible loss of data
+D:\Something wars Visual\Something wars\Something wars\main.cpp(1477,94): warning C4244:  'argument': conversion from 'double' to 'int', possible loss of data
+D:\Something wars Visual\Something wars\Something wars\main.cpp(1487,81): warning C4805:  '!=': unsafe mix of type 'int' and type 'bool' in operation
+D:\Something wars Visual\Something wars\Something wars\main.cpp(1489,54): warning C4244:  '+=': conversion from 'double' to 'float', possible loss of data
+D:\Something wars Visual\Something wars\Something wars\main.cpp(1618,59): warning C4805:  '!=': unsafe mix of type 'bool' and type 'int' in operation
+D:\Something wars Visual\Something wars\Something wars\main.cpp(1682,59): warning C4805:  '!=': unsafe mix of type 'bool' and type 'int' in operation
+D:\Something wars Visual\Something wars\Something wars\main.cpp(1717,47): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+D:\Something wars Visual\Something wars\Something wars\main.cpp(1718,38): warning C4244:  '=': conversion from 'int' to 'float', possible loss of data
+D:\Something wars Visual\Something wars\Something wars\main.cpp(1727,48): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+D:\Something wars Visual\Something wars\Something wars\main.cpp(1728,38): warning C4244:  '=': conversion from 'int' to 'float', possible loss of data
+D:\Something wars Visual\Something wars\Something wars\main.cpp(1760,54): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+D:\Something wars Visual\Something wars\Something wars\main.cpp(1760,32): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+D:\Something wars Visual\Something wars\Something wars\main.cpp(1763,37): warning C4244:  'argument': conversion from 'double' to 'float', possible loss of data
+D:\Something wars Visual\Something wars\Something wars\main.cpp(1763,21): warning C4244:  'argument': conversion from 'double' to 'float', possible loss of data
+D:\Something wars Visual\Something wars\Something wars\main.cpp(1777,59): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+D:\Something wars Visual\Something wars\Something wars\main.cpp(1777,37): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+D:\Something wars Visual\Something wars\Something wars\main.cpp(1780,42): warning C4244:  'argument': conversion from 'double' to 'float', possible loss of data
+D:\Something wars Visual\Something wars\Something wars\main.cpp(1780,26): warning C4244:  'argument': conversion from 'double' to 'float', possible loss of data
+D:\Something wars Visual\Something wars\Something wars\main.cpp(1943,59): warning C4244:  'argument': conversion from 'double' to 'float', possible loss of data
+D:\Something wars Visual\Something wars\Something wars\main.cpp(1943,32): warning C4244:  'argument': conversion from 'double' to 'float', possible loss of data
+D:\Something wars Visual\Something wars\Something wars\main.cpp(1941,166): warning C4244:  'argument': conversion from 'float' to 'int', possible loss of data
+D:\Something wars Visual\Something wars\Something wars\main.cpp(1941,133): warning C4244:  'argument': conversion from 'float' to 'int', possible loss of data
+D:\Something wars Visual\Something wars\Something wars\main.cpp(1941,93): warning C4244:  'argument': conversion from 'float' to 'int', possible loss of data
+D:\Something wars Visual\Something wars\Something wars\main.cpp(2110,73): warning C4244:  'argument': conversion from 'double' to 'float', possible loss of data
+D:\Something wars Visual\Something wars\Something wars\main.cpp(2165,73): warning C4244:  'argument': conversion from 'double' to 'float', possible loss of data
+  mainbutton.cpp
+D:\Something wars Visual\Something wars\Something wars\main.cpp(2037,8): warning C4101:  'save': unreferenced local variable
+D:\Something wars Visual\Something wars\Something wars\mainbutton.cpp(390,45): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+D:\Something wars Visual\Something wars\Something wars\mainbutton.cpp(390,25): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+D:\Something wars Visual\Something wars\Something wars\mainbutton.cpp(391,45): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+D:\Something wars Visual\Something wars\Something wars\mainbutton.cpp(391,25): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+D:\Something wars Visual\Something wars\Something wars\mainbutton.cpp(563,59): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+D:\Something wars Visual\Something wars\Something wars\mainbutton.cpp(563,40): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+D:\Something wars Visual\Something wars\Something wars\mainbutton.cpp(575,59): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+D:\Something wars Visual\Something wars\Something wars\mainbutton.cpp(575,40): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+D:\Something wars Visual\Something wars\Something wars\mainbutton.cpp(647,65): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+D:\Something wars Visual\Something wars\Something wars\mainbutton.cpp(647,35): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+D:\Something wars Visual\Something wars\Something wars\mainbutton.cpp(648,56): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+D:\Something wars Visual\Something wars\Something wars\mainbutton.cpp(648,26): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+D:\Something wars Visual\Something wars\Something wars\mainbutton.cpp(649,57): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+  Playerclass.cpp
+D:\Something wars Visual\Something wars\Something wars\mainbutton.cpp(649,26): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+D:\Something wars Visual\Something wars\Something wars\Playerclass.cpp(46,21): warning C4244:  '=': conversion from 'int' to 'float', possible loss of data
+D:\Something wars Visual\Something wars\Something wars\Playerclass.cpp(81,102): warning C4244:  'argument': conversion from 'double' to 'T', possible loss of data
+D:\Something wars Visual\Something wars\Something wars\Playerclass.cpp(81,102): warning C4244:         with
+D:\Something wars Visual\Something wars\Something wars\Playerclass.cpp(81,102): warning C4244:         [
+D:\Something wars Visual\Something wars\Something wars\Playerclass.cpp(81,102): warning C4244:             T=int
+D:\Something wars Visual\Something wars\Something wars\Playerclass.cpp(81,102): warning C4244:         ]
+D:\Something wars Visual\Something wars\Something wars\Playerclass.cpp(81,61): warning C4244:  'argument': conversion from 'T' to 'T', possible loss of data
+D:\Something wars Visual\Something wars\Something wars\Playerclass.cpp(81,61): warning C4244:         with
+D:\Something wars Visual\Something wars\Something wars\Playerclass.cpp(81,61): warning C4244:         [
+D:\Something wars Visual\Something wars\Something wars\Playerclass.cpp(81,61): warning C4244:             T=float
+D:\Something wars Visual\Something wars\Something wars\Playerclass.cpp(81,61): warning C4244:         ]
+D:\Something wars Visual\Something wars\Something wars\Playerclass.cpp(81,61): warning C4244:         and
+D:\Something wars Visual\Something wars\Something wars\Playerclass.cpp(81,61): warning C4244:         [
+D:\Something wars Visual\Something wars\Something wars\Playerclass.cpp(81,61): warning C4244:             T=int
+D:\Something wars Visual\Something wars\Something wars\Playerclass.cpp(81,61): warning C4244:         ]
+D:\Something wars Visual\Something wars\Something wars\Playerclass.cpp(80,102): warning C4244:  'argument': conversion from 'double' to 'T', possible loss of data
+D:\Something wars Visual\Something wars\Something wars\Playerclass.cpp(80,102): warning C4244:         with
+D:\Something wars Visual\Something wars\Something wars\Playerclass.cpp(80,102): warning C4244:         [
+D:\Something wars Visual\Something wars\Something wars\Playerclass.cpp(80,102): warning C4244:             T=int
+D:\Something wars Visual\Something wars\Something wars\Playerclass.cpp(80,102): warning C4244:         ]
+D:\Something wars Visual\Something wars\Something wars\Playerclass.cpp(80,62): warning C4244:  'argument': conversion from 'T' to 'T', possible loss of data
+D:\Something wars Visual\Something wars\Something wars\Playerclass.cpp(80,62): warning C4244:         with
+D:\Something wars Visual\Something wars\Something wars\Playerclass.cpp(80,62): warning C4244:         [
+D:\Something wars Visual\Something wars\Something wars\Playerclass.cpp(80,62): warning C4244:             T=float
+D:\Something wars Visual\Something wars\Something wars\Playerclass.cpp(80,62): warning C4244:         ]
+D:\Something wars Visual\Something wars\Something wars\Playerclass.cpp(80,62): warning C4244:         and
+D:\Something wars Visual\Something wars\Something wars\Playerclass.cpp(80,62): warning C4244:         [
+D:\Something wars Visual\Something wars\Something wars\Playerclass.cpp(80,62): warning C4244:             T=int
+D:\Something wars Visual\Something wars\Something wars\Playerclass.cpp(80,62): warning C4244:         ]
+D:\Something wars Visual\Something wars\Something wars\Playerclass.cpp(84,19): warning C4244:  '=': conversion from 'double' to 'int', possible loss of data
+D:\Something wars Visual\Something wars\Something wars\Playerclass.cpp(85,19): warning C4244:  '=': conversion from 'double' to 'int', possible loss of data
+D:\Something wars Visual\Something wars\Something wars\Playerclass.cpp(86,20): warning C4244:  '=': conversion from 'double' to 'int', possible loss of data
+D:\Something wars Visual\Something wars\Something wars\Playerclass.cpp(87,20): warning C4244:  '=': conversion from 'double' to 'int', possible loss of data
+D:\Something wars Visual\Something wars\Something wars\Playerclass.cpp(89,33): warning C4244:  'argument': conversion from 'int' to 'T', possible loss of data
+D:\Something wars Visual\Something wars\Something wars\Playerclass.cpp(89,33): warning C4244:         with
+D:\Something wars Visual\Something wars\Something wars\Playerclass.cpp(89,33): warning C4244:         [
+D:\Something wars Visual\Something wars\Something wars\Playerclass.cpp(89,33): warning C4244:             T=float
+D:\Something wars Visual\Something wars\Something wars\Playerclass.cpp(89,33): warning C4244:         ]
+D:\Something wars Visual\Something wars\Something wars\Playerclass.cpp(90,34): warning C4244:  'argument': conversion from 'int' to 'T', possible loss of data
+D:\Something wars Visual\Something wars\Something wars\Playerclass.cpp(90,34): warning C4244:         with
+D:\Something wars Visual\Something wars\Something wars\Playerclass.cpp(90,34): warning C4244:         [
+D:\Something wars Visual\Something wars\Something wars\Playerclass.cpp(90,34): warning C4244:             T=float
+D:\Something wars Visual\Something wars\Something wars\Playerclass.cpp(90,34): warning C4244:         ]
+D:\Something wars Visual\Something wars\Something wars\Playerclass.cpp(115,99): warning C4244:  'argument': conversion from 'T' to 'T', possible loss of data
+D:\Something wars Visual\Something wars\Something wars\Playerclass.cpp(115,99): warning C4244:         with
+D:\Something wars Visual\Something wars\Something wars\Playerclass.cpp(115,99): warning C4244:         [
+D:\Something wars Visual\Something wars\Something wars\Playerclass.cpp(115,99): warning C4244:             T=float
+D:\Something wars Visual\Something wars\Something wars\Playerclass.cpp(115,99): warning C4244:         ]
+D:\Something wars Visual\Something wars\Something wars\Playerclass.cpp(115,99): warning C4244:         and
+D:\Something wars Visual\Something wars\Something wars\Playerclass.cpp(115,99): warning C4244:         [
+D:\Something wars Visual\Something wars\Something wars\Playerclass.cpp(115,99): warning C4244:             T=int
+D:\Something wars Visual\Something wars\Something wars\Playerclass.cpp(115,99): warning C4244:         ]
+D:\Something wars Visual\Something wars\Something wars\Playerclass.cpp(115,61): warning C4244:  'argument': conversion from 'T' to 'T', possible loss of data
+D:\Something wars Visual\Something wars\Something wars\Playerclass.cpp(115,61): warning C4244:         with
+D:\Something wars Visual\Something wars\Something wars\Playerclass.cpp(115,61): warning C4244:         [
+D:\Something wars Visual\Something wars\Something wars\Playerclass.cpp(115,61): warning C4244:             T=float
+D:\Something wars Visual\Something wars\Something wars\Playerclass.cpp(115,61): warning C4244:         ]
+D:\Something wars Visual\Something wars\Something wars\Playerclass.cpp(115,61): warning C4244:         and
+D:\Something wars Visual\Something wars\Something wars\Playerclass.cpp(115,61): warning C4244:         [
+D:\Something wars Visual\Something wars\Something wars\Playerclass.cpp(115,61): warning C4244:             T=int
+D:\Something wars Visual\Something wars\Something wars\Playerclass.cpp(115,61): warning C4244:         ]
+D:\Something wars Visual\Something wars\Something wars\Playerclass.cpp(114,100): warning C4244:  'argument': conversion from 'T' to 'T', possible loss of data
+D:\Something wars Visual\Something wars\Something wars\Playerclass.cpp(114,100): warning C4244:         with
+D:\Something wars Visual\Something wars\Something wars\Playerclass.cpp(114,100): warning C4244:         [
+D:\Something wars Visual\Something wars\Something wars\Playerclass.cpp(114,100): warning C4244:             T=float
+D:\Something wars Visual\Something wars\Something wars\Playerclass.cpp(114,100): warning C4244:         ]
+D:\Something wars Visual\Something wars\Something wars\Playerclass.cpp(114,100): warning C4244:         and
+D:\Something wars Visual\Something wars\Something wars\Playerclass.cpp(114,100): warning C4244:         [
+D:\Something wars Visual\Something wars\Something wars\Playerclass.cpp(114,100): warning C4244:             T=int
+D:\Something wars Visual\Something wars\Something wars\Playerclass.cpp(114,100): warning C4244:         ]
+D:\Something wars Visual\Something wars\Something wars\Playerclass.cpp(114,62): warning C4244:  'argument': conversion from 'T' to 'T', possible loss of data
+D:\Something wars Visual\Something wars\Something wars\Playerclass.cpp(114,62): warning C4244:         with
+D:\Something wars Visual\Something wars\Something wars\Playerclass.cpp(114,62): warning C4244:         [
+D:\Something wars Visual\Something wars\Something wars\Playerclass.cpp(114,62): warning C4244:             T=float
+D:\Something wars Visual\Something wars\Something wars\Playerclass.cpp(114,62): warning C4244:         ]
+D:\Something wars Visual\Something wars\Something wars\Playerclass.cpp(114,62): warning C4244:         and
+D:\Something wars Visual\Something wars\Something wars\Playerclass.cpp(114,62): warning C4244:         [
+D:\Something wars Visual\Something wars\Something wars\Playerclass.cpp(114,62): warning C4244:             T=int
+D:\Something wars Visual\Something wars\Something wars\Playerclass.cpp(114,62): warning C4244:         ]
+D:\Something wars Visual\Something wars\Something wars\Playerclass.cpp(124,33): warning C4244:  'argument': conversion from 'int' to 'T', possible loss of data
+D:\Something wars Visual\Something wars\Something wars\Playerclass.cpp(124,33): warning C4244:         with
+D:\Something wars Visual\Something wars\Something wars\Playerclass.cpp(124,33): warning C4244:         [
+D:\Something wars Visual\Something wars\Something wars\Playerclass.cpp(124,33): warning C4244:             T=float
+D:\Something wars Visual\Something wars\Something wars\Playerclass.cpp(124,33): warning C4244:         ]
+D:\Something wars Visual\Something wars\Something wars\Playerclass.cpp(125,40): warning C4244:  'argument': conversion from 'int' to 'T', possible loss of data
+D:\Something wars Visual\Something wars\Something wars\Playerclass.cpp(125,40): warning C4244:         with
+D:\Something wars Visual\Something wars\Something wars\Playerclass.cpp(125,40): warning C4244:         [
+D:\Something wars Visual\Something wars\Something wars\Playerclass.cpp(125,40): warning C4244:             T=float
+D:\Something wars Visual\Something wars\Something wars\Playerclass.cpp(125,40): warning C4244:         ]
+D:\Something wars Visual\Something wars\Something wars\Playerclass.cpp(125,36): warning C4244:  'argument': conversion from 'int' to 'T', possible loss of data
+D:\Something wars Visual\Something wars\Something wars\Playerclass.cpp(125,36): warning C4244:         with
+D:\Something wars Visual\Something wars\Something wars\Playerclass.cpp(125,36): warning C4244:         [
+D:\Something wars Visual\Something wars\Something wars\Playerclass.cpp(125,36): warning C4244:             T=float
+D:\Something wars Visual\Something wars\Something wars\Playerclass.cpp(125,36): warning C4244:         ]
+D:\Something wars Visual\Something wars\Something wars\Playerclass.cpp(134,101): warning C4244:  'argument': conversion from 'T' to 'T', possible loss of data
+D:\Something wars Visual\Something wars\Something wars\Playerclass.cpp(134,101): warning C4244:         with
+D:\Something wars Visual\Something wars\Something wars\Playerclass.cpp(134,101): warning C4244:         [
+D:\Something wars Visual\Something wars\Something wars\Playerclass.cpp(134,101): warning C4244:             T=float
+D:\Something wars Visual\Something wars\Something wars\Playerclass.cpp(134,101): warning C4244:         ]
+D:\Something wars Visual\Something wars\Something wars\Playerclass.cpp(134,101): warning C4244:         and
+D:\Something wars Visual\Something wars\Something wars\Playerclass.cpp(134,101): warning C4244:         [
+D:\Something wars Visual\Something wars\Something wars\Playerclass.cpp(134,101): warning C4244:             T=int
+D:\Something wars Visual\Something wars\Something wars\Playerclass.cpp(134,101): warning C4244:         ]
+D:\Something wars Visual\Something wars\Something wars\Playerclass.cpp(134,73): warning C4244:  'argument': conversion from 'T' to 'T', possible loss of data
+D:\Something wars Visual\Something wars\Something wars\Playerclass.cpp(134,73): warning C4244:         with
+D:\Something wars Visual\Something wars\Something wars\Playerclass.cpp(134,73): warning C4244:         [
+D:\Something wars Visual\Something wars\Something wars\Playerclass.cpp(134,73): warning C4244:             T=float
+D:\Something wars Visual\Something wars\Something wars\Playerclass.cpp(134,73): warning C4244:         ]
+D:\Something wars Visual\Something wars\Something wars\Playerclass.cpp(134,73): warning C4244:         and
+D:\Something wars Visual\Something wars\Something wars\Playerclass.cpp(134,73): warning C4244:         [
+D:\Something wars Visual\Something wars\Something wars\Playerclass.cpp(134,73): warning C4244:             T=int
+D:\Something wars Visual\Something wars\Something wars\Playerclass.cpp(134,73): warning C4244:         ]
+D:\Something wars Visual\Something wars\Something wars\Playerclass.cpp(157,92): warning C4244:  'argument': conversion from 'T' to 'T', possible loss of data
+D:\Something wars Visual\Something wars\Something wars\Playerclass.cpp(157,92): warning C4244:         with
+D:\Something wars Visual\Something wars\Something wars\Playerclass.cpp(157,92): warning C4244:         [
+D:\Something wars Visual\Something wars\Something wars\Playerclass.cpp(157,92): warning C4244:             T=float
+D:\Something wars Visual\Something wars\Something wars\Playerclass.cpp(157,92): warning C4244:         ]
+D:\Something wars Visual\Something wars\Something wars\Playerclass.cpp(157,92): warning C4244:         and
+D:\Something wars Visual\Something wars\Something wars\Playerclass.cpp(157,92): warning C4244:         [
+D:\Something wars Visual\Something wars\Something wars\Playerclass.cpp(157,92): warning C4244:             T=int
+D:\Something wars Visual\Something wars\Something wars\Playerclass.cpp(157,92): warning C4244:         ]
+D:\Something wars Visual\Something wars\Something wars\Playerclass.cpp(157,63): warning C4244:  'argument': conversion from 'T' to 'T', possible loss of data
+D:\Something wars Visual\Something wars\Something wars\Playerclass.cpp(157,63): warning C4244:         with
+D:\Something wars Visual\Something wars\Something wars\Playerclass.cpp(157,63): warning C4244:         [
+D:\Something wars Visual\Something wars\Something wars\Playerclass.cpp(157,63): warning C4244:             T=float
+D:\Something wars Visual\Something wars\Something wars\Playerclass.cpp(157,63): warning C4244:         ]
+D:\Something wars Visual\Something wars\Something wars\Playerclass.cpp(157,63): warning C4244:         and
+D:\Something wars Visual\Something wars\Something wars\Playerclass.cpp(157,63): warning C4244:         [
+D:\Something wars Visual\Something wars\Something wars\Playerclass.cpp(157,63): warning C4244:             T=int
+D:\Something wars Visual\Something wars\Something wars\Playerclass.cpp(157,63): warning C4244:         ]
+D:\Something wars Visual\Something wars\Something wars\Playerclass.cpp(159,95): warning C4244:  'argument': conversion from 'T' to 'T', possible loss of data
+D:\Something wars Visual\Something wars\Something wars\Playerclass.cpp(159,95): warning C4244:         with
+D:\Something wars Visual\Something wars\Something wars\Playerclass.cpp(159,95): warning C4244:         [
+D:\Something wars Visual\Something wars\Something wars\Playerclass.cpp(159,95): warning C4244:             T=float
+D:\Something wars Visual\Something wars\Something wars\Playerclass.cpp(159,95): warning C4244:         ]
+D:\Something wars Visual\Something wars\Something wars\Playerclass.cpp(159,95): warning C4244:         and
+D:\Something wars Visual\Something wars\Something wars\Playerclass.cpp(159,95): warning C4244:         [
+D:\Something wars Visual\Something wars\Something wars\Playerclass.cpp(159,95): warning C4244:             T=int
+D:\Something wars Visual\Something wars\Something wars\Playerclass.cpp(159,95): warning C4244:         ]
+D:\Something wars Visual\Something wars\Something wars\Playerclass.cpp(159,65): warning C4244:  'argument': conversion from 'T' to 'T', possible loss of data
+D:\Something wars Visual\Something wars\Something wars\Playerclass.cpp(159,65): warning C4244:         with
+D:\Something wars Visual\Something wars\Something wars\Playerclass.cpp(159,65): warning C4244:         [
+D:\Something wars Visual\Something wars\Something wars\Playerclass.cpp(159,65): warning C4244:             T=float
+D:\Something wars Visual\Something wars\Something wars\Playerclass.cpp(159,65): warning C4244:         ]
+D:\Something wars Visual\Something wars\Something wars\Playerclass.cpp(159,65): warning C4244:         and
+D:\Something wars Visual\Something wars\Something wars\Playerclass.cpp(159,65): warning C4244:         [
+D:\Something wars Visual\Something wars\Something wars\Playerclass.cpp(159,65): warning C4244:             T=int
+D:\Something wars Visual\Something wars\Something wars\Playerclass.cpp(159,65): warning C4244:         ]
+D:\Something wars Visual\Something wars\Something wars\Playerclass.cpp(162,104): warning C4244:  'argument': conversion from 'T' to 'T', possible loss of data
+D:\Something wars Visual\Something wars\Something wars\Playerclass.cpp(162,104): warning C4244:         with
+D:\Something wars Visual\Something wars\Something wars\Playerclass.cpp(162,104): warning C4244:         [
+D:\Something wars Visual\Something wars\Something wars\Playerclass.cpp(162,104): warning C4244:             T=float
+D:\Something wars Visual\Something wars\Something wars\Playerclass.cpp(162,104): warning C4244:         ]
+D:\Something wars Visual\Something wars\Something wars\Playerclass.cpp(162,104): warning C4244:         and
+D:\Something wars Visual\Something wars\Something wars\Playerclass.cpp(162,104): warning C4244:         [
+D:\Something wars Visual\Something wars\Something wars\Playerclass.cpp(162,104): warning C4244:             T=int
+D:\Something wars Visual\Something wars\Something wars\Playerclass.cpp(162,104): warning C4244:         ]
+D:\Something wars Visual\Something wars\Something wars\Playerclass.cpp(162,71): warning C4244:  'argument': conversion from 'T' to 'T', possible loss of data
+D:\Something wars Visual\Something wars\Something wars\Playerclass.cpp(162,71): warning C4244:         with
+D:\Something wars Visual\Something wars\Something wars\Playerclass.cpp(162,71): warning C4244:         [
+D:\Something wars Visual\Something wars\Something wars\Playerclass.cpp(162,71): warning C4244:             T=float
+D:\Something wars Visual\Something wars\Something wars\Playerclass.cpp(162,71): warning C4244:         ]
+D:\Something wars Visual\Something wars\Something wars\Playerclass.cpp(162,71): warning C4244:         and
+D:\Something wars Visual\Something wars\Something wars\Playerclass.cpp(162,71): warning C4244:         [
+D:\Something wars Visual\Something wars\Something wars\Playerclass.cpp(162,71): warning C4244:             T=int
+D:\Something wars Visual\Something wars\Something wars\Playerclass.cpp(162,71): warning C4244:         ]
+D:\Something wars Visual\Something wars\Something wars\Playerclass.cpp(167,99): warning C4244:  'argument': conversion from 'T' to 'T', possible loss of data
+D:\Something wars Visual\Something wars\Something wars\Playerclass.cpp(167,99): warning C4244:         with
+D:\Something wars Visual\Something wars\Something wars\Playerclass.cpp(167,99): warning C4244:         [
+D:\Something wars Visual\Something wars\Something wars\Playerclass.cpp(167,99): warning C4244:             T=float
+D:\Something wars Visual\Something wars\Something wars\Playerclass.cpp(167,99): warning C4244:         ]
+D:\Something wars Visual\Something wars\Something wars\Playerclass.cpp(167,99): warning C4244:         and
+D:\Something wars Visual\Something wars\Something wars\Playerclass.cpp(167,99): warning C4244:         [
+D:\Something wars Visual\Something wars\Something wars\Playerclass.cpp(167,99): warning C4244:             T=int
+D:\Something wars Visual\Something wars\Something wars\Playerclass.cpp(167,99): warning C4244:         ]
+D:\Something wars Visual\Something wars\Something wars\Playerclass.cpp(167,61): warning C4244:  'argument': conversion from 'T' to 'T', possible loss of data
+D:\Something wars Visual\Something wars\Something wars\Playerclass.cpp(167,61): warning C4244:         with
+D:\Something wars Visual\Something wars\Something wars\Playerclass.cpp(167,61): warning C4244:         [
+D:\Something wars Visual\Something wars\Something wars\Playerclass.cpp(167,61): warning C4244:             T=float
+D:\Something wars Visual\Something wars\Something wars\Playerclass.cpp(167,61): warning C4244:         ]
+D:\Something wars Visual\Something wars\Something wars\Playerclass.cpp(167,61): warning C4244:         and
+D:\Something wars Visual\Something wars\Something wars\Playerclass.cpp(167,61): warning C4244:         [
+D:\Something wars Visual\Something wars\Something wars\Playerclass.cpp(167,61): warning C4244:             T=int
+D:\Something wars Visual\Something wars\Something wars\Playerclass.cpp(167,61): warning C4244:         ]
+D:\Something wars Visual\Something wars\Something wars\Playerclass.cpp(166,100): warning C4244:  'argument': conversion from 'T' to 'T', possible loss of data
+D:\Something wars Visual\Something wars\Something wars\Playerclass.cpp(166,100): warning C4244:         with
+D:\Something wars Visual\Something wars\Something wars\Playerclass.cpp(166,100): warning C4244:         [
+D:\Something wars Visual\Something wars\Something wars\Playerclass.cpp(166,100): warning C4244:             T=float
+D:\Something wars Visual\Something wars\Something wars\Playerclass.cpp(166,100): warning C4244:         ]
+D:\Something wars Visual\Something wars\Something wars\Playerclass.cpp(166,100): warning C4244:         and
+D:\Something wars Visual\Something wars\Something wars\Playerclass.cpp(166,100): warning C4244:         [
+D:\Something wars Visual\Something wars\Something wars\Playerclass.cpp(166,100): warning C4244:             T=int
+D:\Something wars Visual\Something wars\Something wars\Playerclass.cpp(166,100): warning C4244:         ]
+D:\Something wars Visual\Something wars\Something wars\Playerclass.cpp(166,62): warning C4244:  'argument': conversion from 'T' to 'T', possible loss of data
+D:\Something wars Visual\Something wars\Something wars\Playerclass.cpp(166,62): warning C4244:         with
+D:\Something wars Visual\Something wars\Something wars\Playerclass.cpp(166,62): warning C4244:         [
+D:\Something wars Visual\Something wars\Something wars\Playerclass.cpp(166,62): warning C4244:             T=float
+D:\Something wars Visual\Something wars\Something wars\Playerclass.cpp(166,62): warning C4244:         ]
+D:\Something wars Visual\Something wars\Something wars\Playerclass.cpp(166,62): warning C4244:         and
+D:\Something wars Visual\Something wars\Something wars\Playerclass.cpp(166,62): warning C4244:         [
+D:\Something wars Visual\Something wars\Something wars\Playerclass.cpp(166,62): warning C4244:             T=int
+D:\Something wars Visual\Something wars\Something wars\Playerclass.cpp(166,62): warning C4244:         ]
+D:\Something wars Visual\Something wars\Something wars\Playerclass.cpp(170,19): warning C4244:  '=': conversion from 'double' to 'int', possible loss of data
+D:\Something wars Visual\Something wars\Something wars\Playerclass.cpp(171,19): warning C4244:  '=': conversion from 'double' to 'int', possible loss of data
+D:\Something wars Visual\Something wars\Something wars\Playerclass.cpp(172,19): warning C4244:  '=': conversion from 'double' to 'int', possible loss of data
+D:\Something wars Visual\Something wars\Something wars\Playerclass.cpp(173,20): warning C4244:  '=': conversion from 'double' to 'int', possible loss of data
+D:\Something wars Visual\Something wars\Something wars\Playerclass.cpp(199,36): warning C4244:  'argument': conversion from 'int' to 'T', possible loss of data
+D:\Something wars Visual\Something wars\Something wars\Playerclass.cpp(199,36): warning C4244:         with
+D:\Something wars Visual\Something wars\Something wars\Playerclass.cpp(199,36): warning C4244:         [
+D:\Something wars Visual\Something wars\Something wars\Playerclass.cpp(199,36): warning C4244:             T=float
+D:\Something wars Visual\Something wars\Something wars\Playerclass.cpp(199,36): warning C4244:         ]
+D:\Something wars Visual\Something wars\Something wars\Playerclass.cpp(199,30): warning C4244:  'argument': conversion from 'int' to 'T', possible loss of data
+D:\Something wars Visual\Something wars\Something wars\Playerclass.cpp(199,30): warning C4244:         with
+D:\Something wars Visual\Something wars\Something wars\Playerclass.cpp(199,30): warning C4244:         [
+D:\Something wars Visual\Something wars\Something wars\Playerclass.cpp(199,30): warning C4244:             T=float
+D:\Something wars Visual\Something wars\Something wars\Playerclass.cpp(199,30): warning C4244:         ]
+D:\Something wars Visual\Something wars\Something wars\Playerclass.cpp(261,29): warning C4244:  '=': conversion from 'double' to 'float', possible loss of data
+D:\Something wars Visual\Something wars\Something wars\Playerclass.cpp(328,25): warning C4244:  '=': conversion from 'int' to 'float', possible loss of data
+D:\Something wars Visual\Something wars\Something wars\Playerclass.cpp(334,23): warning C4244:  '=': conversion from 'int' to 'float', possible loss of data
+D:\Something wars Visual\Something wars\Something wars\Playerclass.cpp(348,20): warning C4244:  '=': conversion from 'double' to 'float', possible loss of data
+D:\Something wars Visual\Something wars\Something wars\Playerclass.cpp(349,14): warning C4244:  '=': conversion from 'int' to 'float', possible loss of data
+D:\Something wars Visual\Something wars\Something wars\Playerclass.cpp(350,14): warning C4244:  '=': conversion from 'int' to 'float', possible loss of data
+D:\Something wars Visual\Something wars\Something wars\Playerclass.cpp(351,13): warning C4244:  '=': conversion from 'int' to 'float', possible loss of data
+D:\Something wars Visual\Something wars\Something wars\Playerclass.cpp(354,37): warning C4244:  '+=': conversion from 'double' to 'float', possible loss of data
+D:\Something wars Visual\Something wars\Something wars\Playerclass.cpp(390,21): warning C4244:  '=': conversion from 'double' to 'float', possible loss of data
+D:\Something wars Visual\Something wars\Something wars\Playerclass.cpp(391,15): warning C4244:  '=': conversion from 'double' to 'float', possible loss of data
+D:\Something wars Visual\Something wars\Something wars\Playerclass.cpp(392,14): warning C4244:  '=': conversion from 'int' to 'float', possible loss of data
+D:\Something wars Visual\Something wars\Something wars\Playerclass.cpp(393,11): warning C4244:  '=': conversion from 'int' to 'float', possible loss of data
+D:\Something wars Visual\Something wars\Something wars\Playerclass.cpp(427,20): warning C4244:  '=': conversion from 'double' to 'float', possible loss of data
+D:\Something wars Visual\Something wars\Something wars\Playerclass.cpp(428,15): warning C4244:  '=': conversion from 'int' to 'float', possible loss of data
+D:\Something wars Visual\Something wars\Something wars\Playerclass.cpp(429,14): warning C4244:  '=': conversion from 'int' to 'float', possible loss of data
+D:\Something wars Visual\Something wars\Something wars\Playerclass.cpp(430,12): warning C4244:  '=': conversion from 'int' to 'float', possible loss of data
+D:\Something wars Visual\Something wars\Something wars\Playerclass.cpp(476,39): warning C4244:  '=': conversion from 'double' to 'float', possible loss of data
+D:\Something wars Visual\Something wars\Something wars\Playerclass.cpp(482,22): warning C4244:  'argument': conversion from 'double' to 'float', possible loss of data
+D:\Something wars Visual\Something wars\Something wars\Playerclass.cpp(485,21): warning C4244:  'argument': conversion from 'double' to 'float', possible loss of data
+D:\Something wars Visual\Something wars\Something wars\Playerclass.cpp(499,23): warning C4244:  'argument': conversion from 'double' to 'float', possible loss of data
+D:\Something wars Visual\Something wars\Something wars\Playerclass.cpp(549,36): warning C4244:  '+=': conversion from 'double' to 'float', possible loss of data
+D:\Something wars Visual\Something wars\Something wars\Playerclass.cpp(556,38): warning C4244:  '+=': conversion from 'double' to 'float', possible loss of data
+D:\Something wars Visual\Something wars\Something wars\Playerclass.cpp(559,31): warning C4244:  'argument': conversion from 'double' to 'float', possible loss of data
+D:\Something wars Visual\Something wars\Something wars\Playerclass.cpp(565,77): warning C4244:  'argument': conversion from 'double' to 'float', possible loss of data
+D:\Something wars Visual\Something wars\Something wars\Playerclass.cpp(621,15): warning C4244:  'initializing': conversion from 'T' to 'int', possible loss of data
+D:\Something wars Visual\Something wars\Something wars\Playerclass.cpp(621,15): warning C4244:         with
+D:\Something wars Visual\Something wars\Something wars\Playerclass.cpp(621,15): warning C4244:         [
+D:\Something wars Visual\Something wars\Something wars\Playerclass.cpp(621,15): warning C4244:             T=float
+D:\Something wars Visual\Something wars\Something wars\Playerclass.cpp(621,15): warning C4244:         ]
+D:\Something wars Visual\Something wars\Something wars\Playerclass.cpp(622,15): warning C4244:  'initializing': conversion from 'T' to 'int', possible loss of data
+D:\Something wars Visual\Something wars\Something wars\Playerclass.cpp(622,15): warning C4244:         with
+D:\Something wars Visual\Something wars\Something wars\Playerclass.cpp(622,15): warning C4244:         [
+D:\Something wars Visual\Something wars\Something wars\Playerclass.cpp(622,15): warning C4244:             T=float
+D:\Something wars Visual\Something wars\Something wars\Playerclass.cpp(622,15): warning C4244:         ]
+D:\Something wars Visual\Something wars\Something wars\Playerclass.cpp(638,60): warning C4244:  'argument': conversion from 'int' to 'T', possible loss of data
+D:\Something wars Visual\Something wars\Something wars\Playerclass.cpp(638,60): warning C4244:         with
+D:\Something wars Visual\Something wars\Something wars\Playerclass.cpp(638,60): warning C4244:         [
+D:\Something wars Visual\Something wars\Something wars\Playerclass.cpp(638,60): warning C4244:             T=float
+D:\Something wars Visual\Something wars\Something wars\Playerclass.cpp(638,60): warning C4244:         ]
+D:\Something wars Visual\Something wars\Something wars\Playerclass.cpp(653,83): warning C4244:  'argument': conversion from 'int' to 'T', possible loss of data
+D:\Something wars Visual\Something wars\Something wars\Playerclass.cpp(653,83): warning C4244:         with
+D:\Something wars Visual\Something wars\Something wars\Playerclass.cpp(653,83): warning C4244:         [
+D:\Something wars Visual\Something wars\Something wars\Playerclass.cpp(653,83): warning C4244:             T=float
+D:\Something wars Visual\Something wars\Something wars\Playerclass.cpp(653,83): warning C4244:         ]
+D:\Something wars Visual\Something wars\Something wars\Playerclass.cpp(792,23): warning C4244:  '=': conversion from 'double' to 'float', possible loss of data
+D:\Something wars Visual\Something wars\Something wars\Playerclass.cpp(815,24): warning C4244:  '=': conversion from 'double' to 'float', possible loss of data
+D:\Something wars Visual\Something wars\Something wars\Playerclass.cpp(831,24): warning C4244:  '=': conversion from 'double' to 'float', possible loss of data
+D:\Something wars Visual\Something wars\Something wars\Playerclass.cpp(843,24): warning C4244:  '=': conversion from 'double' to 'float', possible loss of data
+D:\Something wars Visual\Something wars\Something wars\Playerclass.cpp(854,23): warning C4244:  '=': conversion from 'double' to 'float', possible loss of data
+D:\Something wars Visual\Something wars\Something wars\Playerclass.cpp(882,34): warning C4244:  '=': conversion from 'double' to 'float', possible loss of data
+D:\Something wars Visual\Something wars\Something wars\Playerclass.cpp(889,51): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+D:\Something wars Visual\Something wars\Something wars\Playerclass.cpp(895,30): warning C4244:  '=': conversion from 'double' to 'float', possible loss of data
+D:\Something wars Visual\Something wars\Something wars\Playerclass.cpp(900,34): warning C4244:  '=': conversion from 'double' to 'float', possible loss of data
+D:\Something wars Visual\Something wars\Something wars\Playerclass.cpp(908,51): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+D:\Something wars Visual\Something wars\Something wars\Playerclass.cpp(914,30): warning C4244:  '=': conversion from 'double' to 'float', possible loss of data
+D:\Something wars Visual\Something wars\Something wars\Playerclass.cpp(919,34): warning C4244:  '=': conversion from 'double' to 'float', possible loss of data
+D:\Something wars Visual\Something wars\Something wars\Playerclass.cpp(932,30): warning C4244:  '=': conversion from 'double' to 'float', possible loss of data
+D:\Something wars Visual\Something wars\Something wars\Playerclass.cpp(944,52): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+D:\Something wars Visual\Something wars\Something wars\Playerclass.cpp(965,13): warning C4244:  '=': conversion from 'int' to 'float', possible loss of data
+D:\Something wars Visual\Something wars\Something wars\Playerclass.cpp(966,30): warning C4244:  '=': conversion from 'double' to 'float', possible loss of data
+D:\Something wars Visual\Something wars\Something wars\Playerclass.cpp(1010,34): warning C4244:  '=': conversion from 'double' to 'float', possible loss of data
+D:\Something wars Visual\Something wars\Something wars\Playerclass.cpp(1013,34): warning C4244:  '=': conversion from 'double' to 'float', possible loss of data
+D:\Something wars Visual\Something wars\Something wars\Playerclass.cpp(1019,51): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+D:\Something wars Visual\Something wars\Something wars\Playerclass.cpp(1026,34): warning C4244:  '=': conversion from 'double' to 'float', possible loss of data
+D:\Something wars Visual\Something wars\Something wars\Playerclass.cpp(1035,13): warning C4244:  '=': conversion from 'int' to 'float', possible loss of data
+D:\Something wars Visual\Something wars\Something wars\Playerclass.cpp(1036,30): warning C4244:  '=': conversion from 'double' to 'float', possible loss of data
+D:\Something wars Visual\Something wars\Something wars\Playerclass.cpp(1076,24): warning C4244:  '=': conversion from 'double' to 'float', possible loss of data
+D:\Something wars Visual\Something wars\Something wars\Playerclass.cpp(1081,30): warning C4244:  '=': conversion from 'double' to 'float', possible loss of data
+D:\Something wars Visual\Something wars\Something wars\Playerclass.cpp(1093,62): warning C4244:  'argument': conversion from 'double' to 'sf::Uint8', possible loss of data
+D:\Something wars Visual\Something wars\Something wars\Playerclass.cpp(1095,75): warning C4244:  'argument': conversion from 'T' to 'T', possible loss of data
+D:\Something wars Visual\Something wars\Something wars\Playerclass.cpp(1095,75): warning C4244:         with
+D:\Something wars Visual\Something wars\Something wars\Playerclass.cpp(1095,75): warning C4244:         [
+D:\Something wars Visual\Something wars\Something wars\Playerclass.cpp(1095,75): warning C4244:             T=float
+D:\Something wars Visual\Something wars\Something wars\Playerclass.cpp(1095,75): warning C4244:         ]
+D:\Something wars Visual\Something wars\Something wars\Playerclass.cpp(1095,75): warning C4244:         and
+D:\Something wars Visual\Something wars\Something wars\Playerclass.cpp(1095,75): warning C4244:         [
+D:\Something wars Visual\Something wars\Something wars\Playerclass.cpp(1095,75): warning C4244:             T=int
+D:\Something wars Visual\Something wars\Something wars\Playerclass.cpp(1095,75): warning C4244:         ]
+D:\Something wars Visual\Something wars\Something wars\Playerclass.cpp(1094,120): warning C4244:  'argument': conversion from 'T' to 'T', possible loss of data
+D:\Something wars Visual\Something wars\Something wars\Playerclass.cpp(1094,120): warning C4244:         with
+D:\Something wars Visual\Something wars\Something wars\Playerclass.cpp(1094,120): warning C4244:         [
+D:\Something wars Visual\Something wars\Something wars\Playerclass.cpp(1094,120): warning C4244:             T=float
+D:\Something wars Visual\Something wars\Something wars\Playerclass.cpp(1094,120): warning C4244:         ]
+D:\Something wars Visual\Something wars\Something wars\Playerclass.cpp(1094,120): warning C4244:         and
+D:\Something wars Visual\Something wars\Something wars\Playerclass.cpp(1094,120): warning C4244:         [
+D:\Something wars Visual\Something wars\Something wars\Playerclass.cpp(1094,120): warning C4244:             T=int
+D:\Something wars Visual\Something wars\Something wars\Playerclass.cpp(1094,120): warning C4244:         ]
+D:\Something wars Visual\Something wars\Something wars\Playerclass.cpp(1094,82): warning C4244:  'argument': conversion from 'T' to 'T', possible loss of data
+D:\Something wars Visual\Something wars\Something wars\Playerclass.cpp(1094,82): warning C4244:         with
+D:\Something wars Visual\Something wars\Something wars\Playerclass.cpp(1094,82): warning C4244:         [
+D:\Something wars Visual\Something wars\Something wars\Playerclass.cpp(1094,82): warning C4244:             T=float
+D:\Something wars Visual\Something wars\Something wars\Playerclass.cpp(1094,82): warning C4244:         ]
+D:\Something wars Visual\Something wars\Something wars\Playerclass.cpp(1094,82): warning C4244:         and
+D:\Something wars Visual\Something wars\Something wars\Playerclass.cpp(1094,82): warning C4244:         [
+D:\Something wars Visual\Something wars\Something wars\Playerclass.cpp(1094,82): warning C4244:             T=int
+D:\Something wars Visual\Something wars\Something wars\Playerclass.cpp(1094,82): warning C4244:         ]
+D:\Something wars Visual\Something wars\Something wars\Playerclass.cpp(1132,34): warning C4244:  '=': conversion from 'double' to 'float', possible loss of data
+D:\Something wars Visual\Something wars\Something wars\Playerclass.cpp(1135,34): warning C4244:  '=': conversion from 'double' to 'float', possible loss of data
+D:\Something wars Visual\Something wars\Something wars\Playerclass.cpp(1149,36): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+D:\Something wars Visual\Something wars\Something wars\Playerclass.cpp(1150,37): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+D:\Something wars Visual\Something wars\Something wars\Playerclass.cpp(1160,34): warning C4244:  '=': conversion from 'double' to 'float', possible loss of data
+D:\Something wars Visual\Something wars\Something wars\Playerclass.cpp(1165,54): warning C4244:  'argument': conversion from 'double' to 'float', possible loss of data
+D:\Something wars Visual\Something wars\Something wars\Playerclass.cpp(1166,55): warning C4244:  'argument': conversion from 'double' to 'float', possible loss of data
+D:\Something wars Visual\Something wars\Something wars\Playerclass.cpp(1167,61): warning C4244:  'argument': conversion from 'double' to 'sf::Uint8', possible loss of data
+D:\Something wars Visual\Something wars\Something wars\Playerclass.cpp(1199,32): warning C4244:  '=': conversion from 'double' to 'float', possible loss of data
+D:\Something wars Visual\Something wars\Something wars\Playerclass.cpp(1202,30): warning C4244:  '=': conversion from 'double' to 'float', possible loss of data
+D:\Something wars Visual\Something wars\Something wars\Playerclass.cpp(1211,38): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+D:\Something wars Visual\Something wars\Something wars\Playerclass.cpp(1212,39): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+D:\Something wars Visual\Something wars\Something wars\Playerclass.cpp(1217,62): warning C4244:  'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+D:\Something wars Visual\Something wars\Something wars\Playerclass.cpp(1224,30): warning C4244:  '=': conversion from 'double' to 'float', possible loss of data
+D:\Something wars Visual\Something wars\Something wars\Playerclass.cpp(1253,34): warning C4244:  '=': conversion from 'double' to 'float', possible loss of data
+D:\Something wars Visual\Something wars\Something wars\Playerclass.cpp(1259,34): warning C4244:  '=': conversion from 'double' to 'float', possible loss of data
+D:\Something wars Visual\Something wars\Something wars\Playerclass.cpp(1269,28): warning C4244:  '=': conversion from 'double' to 'float', possible loss of data
+D:\Something wars Visual\Something wars\Something wars\Playerclass.cpp(1270,20): warning C4244:  '=': conversion from 'double' to 'int', possible loss of data
+D:\Something wars Visual\Something wars\Something wars\Playerclass.cpp(1277,55): warning C4244:  'argument': conversion from 'double' to 'float', possible loss of data
+D:\Something wars Visual\Something wars\Something wars\Playerclass.cpp(1279,98): warning C4244:  'argument': conversion from 'T' to 'T', possible loss of data
+D:\Something wars Visual\Something wars\Something wars\Playerclass.cpp(1279,98): warning C4244:         with
+D:\Something wars Visual\Something wars\Something wars\Playerclass.cpp(1279,98): warning C4244:         [
+D:\Something wars Visual\Something wars\Something wars\Playerclass.cpp(1279,98): warning C4244:             T=float
+D:\Something wars Visual\Something wars\Something wars\Playerclass.cpp(1279,98): warning C4244:         ]
+D:\Something wars Visual\Something wars\Something wars\Playerclass.cpp(1279,98): warning C4244:         and
+D:\Something wars Visual\Something wars\Something wars\Playerclass.cpp(1279,98): warning C4244:         [
+D:\Something wars Visual\Something wars\Something wars\Playerclass.cpp(1279,98): warning C4244:             T=int
+D:\Something wars Visual\Something wars\Something wars\Playerclass.cpp(1279,98): warning C4244:         ]
+D:\Something wars Visual\Something wars\Something wars\Playerclass.cpp(1279,68): warning C4244:  'argument': conversion from 'T' to 'T', possible loss of data
+D:\Something wars Visual\Something wars\Something wars\Playerclass.cpp(1279,68): warning C4244:         with
+D:\Something wars Visual\Something wars\Something wars\Playerclass.cpp(1279,68): warning C4244:         [
+D:\Something wars Visual\Something wars\Something wars\Playerclass.cpp(1279,68): warning C4244:             T=float
+D:\Something wars Visual\Something wars\Something wars\Playerclass.cpp(1279,68): warning C4244:         ]
+D:\Something wars Visual\Something wars\Something wars\Playerclass.cpp(1279,68): warning C4244:         and
+D:\Something wars Visual\Something wars\Something wars\Playerclass.cpp(1279,68): warning C4244:         [
+D:\Something wars Visual\Something wars\Something wars\Playerclass.cpp(1279,68): warning C4244:             T=int
+D:\Something wars Visual\Something wars\Something wars\Playerclass.cpp(1279,68): warning C4244:         ]
+D:\Something wars Visual\Something wars\Something wars\Playerclass.cpp(1278,97): warning C4244:  'argument': conversion from 'T' to 'T', possible loss of data
+D:\Something wars Visual\Something wars\Something wars\Playerclass.cpp(1278,97): warning C4244:         with
+D:\Something wars Visual\Something wars\Something wars\Playerclass.cpp(1278,97): warning C4244:         [
+D:\Something wars Visual\Something wars\Something wars\Playerclass.cpp(1278,97): warning C4244:             T=float
+D:\Something wars Visual\Something wars\Something wars\Playerclass.cpp(1278,97): warning C4244:         ]
+D:\Something wars Visual\Something wars\Something wars\Playerclass.cpp(1278,97): warning C4244:         and
+D:\Something wars Visual\Something wars\Something wars\Playerclass.cpp(1278,97): warning C4244:         [
+D:\Something wars Visual\Something wars\Something wars\Playerclass.cpp(1278,97): warning C4244:             T=int
+D:\Something wars Visual\Something wars\Something wars\Playerclass.cpp(1278,97): warning C4244:         ]
+D:\Something wars Visual\Something wars\Something wars\Playerclass.cpp(1278,79): warning C4244:  'argument': conversion from 'T' to 'T', possible loss of data
+D:\Something wars Visual\Something wars\Something wars\Playerclass.cpp(1278,79): warning C4244:         with
+D:\Something wars Visual\Something wars\Something wars\Playerclass.cpp(1278,79): warning C4244:         [
+D:\Something wars Visual\Something wars\Something wars\Playerclass.cpp(1278,79): warning C4244:             T=float
+D:\Something wars Visual\Something wars\Something wars\Playerclass.cpp(1278,79): warning C4244:         ]
+D:\Something wars Visual\Something wars\Something wars\Playerclass.cpp(1278,79): warning C4244:         and
+D:\Something wars Visual\Something wars\Something wars\Playerclass.cpp(1278,79): warning C4244:         [
+D:\Something wars Visual\Something wars\Something wars\Playerclass.cpp(1278,79): warning C4244:             T=int
+D:\Something wars Visual\Something wars\Something wars\Playerclass.cpp(1278,79): warning C4244:         ]
+D:\Something wars Visual\Something wars\Something wars\Playerclass.cpp(1283,62): warning C4244:  'argument': conversion from 'double' to 'sf::Uint8', possible loss of data
+D:\Something wars Visual\Something wars\Something wars\Playerclass.cpp(1287,34): warning C4244:  '=': conversion from 'double' to 'float', possible loss of data
+D:\Something wars Visual\Something wars\Something wars\Playerclass.cpp(1322,25): warning C4244:  '=': conversion from 'double' to 'float', possible loss of data
+  ShowDamageClass.cpp
+D:\Something wars Visual\Something wars\Something wars\Playerclass.cpp(1324,26): warning C4244:  '=': conversion from 'int' to 'float', possible loss of data
+D:\Something wars Visual\Something wars\Something wars\ShowDamageClass.cpp(24,45): warning C4244:  '+=': conversion from 'double' to 'float', possible loss of data
+D:\Something wars Visual\Something wars\Something wars\ShowDamageClass.cpp(27,27): warning C4244:  'argument': conversion from 'double' to 'float', possible loss of data
+D:\Something wars Visual\Something wars\Something wars\ShowDamageClass.cpp(30,110): warning C4244:  'argument': conversion from 'double' to 'sf::Uint8', possible loss of data
+  Generating code
+  1 of 1085 functions (<0.1%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    6 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Something wars.vcxproj -> D:\Something wars Visual\Something wars\x64\Release\Something wars.exe

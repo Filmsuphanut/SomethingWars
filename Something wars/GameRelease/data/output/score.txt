@@ -1,0 +1,84 @@
+gfmjbkjhn,mlk(Warrior)
+Result : lose(6 : 15)
+Total playing time 02 : 03
+Played on 28/11/2019
+Kill : 0 Dead : 1
+Score : 0
+
+gfmjbkjhn,mlk(Wizard)
+Result : Win(19 : 5)
+Total playing time 01 : 52
+Played on 28/11/2019
+Kill : 6 Dead : 0
+Score : 1200
+
+Hello world(Warrior)
+Result : Win(66 : 56)
+Total playing time 12 : 19
+Played on 29/11/2019
+Kill : 15 Dead : 11
+Score : 250
+
+Hello world(Assassin)
+Result : lose(5 : 15)
+Total playing time 01 : 31
+Played on 29/11/2019
+Kill : 0 Dead : 4
+Score : 0
+
+Hello world(Assassin)
+Result : lose(0 : 0)
+Total playing time 00 : 10
+Played on 29/11/2019
+Kill : 0 Dead : 0
+Score : 0
+
+Hello world(Assassin)
+Result : lose(4 : 17)
+Total playing time 01 : 30
+Played on 29/11/2019
+Kill : 0 Dead : 3
+Score : 0
+
+Edit name Here!!(Assassin)
+Result : Win(16 : 9)
+Total playing time 01 : 55
+Played on 29/8/2020
+Kill : 4 Dead : 2
+Score : 266
+
+Edit name Here!!(Assassin)
+Result : lose(13 : 7)
+Total playing time 01 : 53
+Played on 29/8/2020
+Kill : 3 Dead : 2
+Score : 200
+
+Jopurin(Warrior)
+Result : Win(17 : 9)
+Total playing time 01 : 56
+Played on 16/12/2020
+Kill : 4 Dead : 1
+Score : 400
+
+Lumine(Wizard)
+Result : Win(20 : 8)
+Total playing time 02 : 09
+Played on 13/7/2021
+Kill : 6 Dead : 0
+Score : 1200
+
+Lumine(Assassin)
+Result : Win(44 : 22)
+Total playing time 05 : 20
+Played on 13/7/2021
+Kill : 13 Dead : 6
+Score : 371
+
+Lumine(Warrior)
+Result : lose(6 : 5)
+Total playing time 00 : 55
+Played on 13/7/2021
+Kill : 1 Dead : 1
+Score : 100
+
